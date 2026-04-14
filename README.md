@@ -1,17 +1,22 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+A clean and functional Todo application built as part of the TripleTen Software Engineering program.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Tasks are saved in the browser's localStorage (persists after refresh)
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+- HTML5
+- CSS3 (with BEM methodology)
+- JavaScript
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
-
-- ADD LINK HERE
+[Link](https://badr-hue.github.io/se_project_todo-app/)
+(https://badr-hue.github.io/se_project_todo-app/)
