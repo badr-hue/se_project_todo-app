@@ -43,6 +43,13 @@ class Todo {
     this._setEventListeners();
     return this._todoElement;
   }
+
+  static generateTodo(data, selector = "#todo-template") {
+    const todo = new Todo(data, selector);
+    const todoElement = todo.getView();
+    return todoElement;
+  }
 }
+
 
 export default Todo;
