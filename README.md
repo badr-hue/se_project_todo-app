@@ -7,7 +7,7 @@ A clean and functional Todo application built as part of the TripleTen Software 
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
-- Tasks are saved in the browser's localStorage (persists after refresh)
+
 
 ## Technology
 
